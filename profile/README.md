@@ -1,6 +1,6 @@
-# 🌐 Institut Informatika & Bisnis Darmajaya
+# 🌐 Institut Informatika dan Bisnis Darmajaya
 
-Selamat datang di **GitHub resmi Institut Informatika & Bisnis Darmajaya**!  
+Selamat datang di **GitHub resmi Institut Informatika dan Bisnis Darmajaya**!  
 Kami adalah perguruan tinggi yang berfokus pada pengembangan **teknologi informasi**, **bisnis**, dan **inovasi digital** untuk mencetak generasi unggul di era industri 4.0.
 
 ## 🎯 **Visi & Misi**
